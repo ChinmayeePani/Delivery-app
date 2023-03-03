@@ -41,7 +41,7 @@ function App() {
           <button className="btn">Contact Us</button>
           </div>
 
-          <div className="chat">
+          <div className="chat" >
           <button className="chat_btn">Chat with us</button>
           </div>
           

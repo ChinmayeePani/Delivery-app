@@ -91,10 +91,9 @@ li:hover{
 
 .chat{
   display: flex;
-  margin-left: 420px;
+  justify-content: flex-end;
+  /* margin-left: 590px; */
   margin-top: 190px;
- 
-  
 }
 
 .chat_btn{
@@ -103,6 +102,6 @@ li:hover{
   outline: none;
   background-color: rgb(20, 73, 199);
   color: white;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: bold;
 }
